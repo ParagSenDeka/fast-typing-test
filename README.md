@@ -8,5 +8,5 @@
 <h2>Use "npm i" to install the packages</h2>
 <h2>Use "npm start" to test the website</h2>
 
-<p>✅Feel free to provide feedback</p>
+<p>Feel free to provide feedback✅</p>
 <p>Have a good day🧋🍵</p>
