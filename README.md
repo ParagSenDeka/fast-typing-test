@@ -1,5 +1,5 @@
-<h1>Simple website to check your typing speed.<h1>
+<h1>😊Simple website to check your typing speed😊<h1>
 
-Based on React.
-
-Not completed
+<li>
+  <ul color="red">React Based</ul>
+</li>
